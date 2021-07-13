@@ -7,11 +7,11 @@
 = Reviewing issues with the {ProductName} extension
 
 
-You can review issues identified by the {ProductName} extension in the *Issue Explorer*.
+You can review issues identified by the {ProductName} extension in *Issue Explorer*.
 
 .Procedure
 
-. In the *Issue Explorer*, click on the project's folder and continue clicking until the issues are exposed.
+. In *Issue Explorer*, click on the project's folder and continue clicking until the issues are exposed.
 +
 Clicking on an issue reveals detailed information about a selected issue, including the hint and any additional resources.
 +

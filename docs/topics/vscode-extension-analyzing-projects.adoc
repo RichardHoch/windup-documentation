@@ -10,7 +10,7 @@ You can analyze your projects by running the {ProductName} extension with a save
 
 .Procedure
 
-. In the text box at the top of the *Issue Explorer*, click the name of the configuration.
+. In the text box at the top of *Issue Explorer*, click the name of the configuration.
 
 . Make any desired changes to the configuration.
 
