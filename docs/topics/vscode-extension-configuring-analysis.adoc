@@ -2,8 +2,11 @@
 //
 // * docs/vs-code-extension-guide/master.adoc
 
-[id='vscode-plugin-identify-resolve-issues_{context}']
-= Analyzing your projects with the {VscodePluginName}
+[id='vscode-extension-configuring-analysis_{context}']
+
+= Configuring a run configuration
+
+You can configure a number of separate run configurations to run against each of your projects. Each configuration is saved automatically as you work.
 
 .Prerequisites
 
@@ -13,9 +16,9 @@
 
 . Launch {VscodePluginName} and click the *{ProductName}* icon in the left panel.
 +
-*{ProductName}* appears at the top of the *Explorer* pane of the screen, below the menu bar.
+*{ProductName}* appears at the top of the *Issue Explorer* pane of the screen.
 
-. To create a new configuration, click *+* next to *{ProductName}*.
+. To create a new configuration, click *+* next to *{ProductName}* at the top of the *Issue Explorer*.
 +
 The configuration options open. *{ProductName}* gives the configuration a default name.
 
@@ -93,8 +96,6 @@ The configuration options open. *{ProductName}* gives the configuration a defaul
 | Creates a Maven project directory structure based on the structure and content of the application.
 |====
 
-. Run the analysis by clicking on the name of the configuration at the top of the screen and then selecting *Run*.
+. Run the analysis by right-clicking on the name of the configuration at the top of the screen and then selecting *Run*.
 +
-The command window opens, displaying the configuration settings and showing the progress of the analysis.
-+
-When the analysis is complete, the *Reports* icon becomes visible in the *Explorer* pane.
+The *Command window* opens, displaying the configuration settings. The *Progress window* displays progress of the analysis.

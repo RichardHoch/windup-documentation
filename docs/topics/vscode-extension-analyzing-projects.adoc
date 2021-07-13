@@ -1,0 +1,21 @@
+// Module included in the following assemblies:
+//
+// * docs/vs-code-extension-guide/master.adoc
+
+[id='vscode-extension-analyzing-projects_{context}']
+
+= Analyzing projects with the {ProductName} extension
+
+You can analyze your projects by running the {ProductName} extension with a saved run configuration.
+
+.Procedure
+
+. In the text box at the top of the *Issue Explorer*, click the name of the configuration.
+
+. Make any desired changes to the configuration.
+
+. Run the analysis by right-clicking on the name of the configuration at the top of the screen and then selecting *Run*.
++
+The *Command window* opens, displaying the configuration settings. The *Progress window* displays progress of the analysis.
++
+When the analysis is complete, the {ProductName} extension displays a folder named *Reports* and a directory that contains a per-file analysis of the project.
