@@ -19,3 +19,5 @@ You can analyze your projects by running the {ProductName} extension with a save
 The *Command window* opens, displaying the configuration settings. The *Progress window* displays progress of the analysis.
 +
 When the analysis is complete, the {ProductName} extension displays a folder named *Reports* and a directory that contains a per-file analysis of the project.
++
+Clicking the *Reports* folder opens the *MTA Report* in your browser. From the report landing page you can navigate to detailed reports, such as Application Details, Issues, and Dependencies. The report is described in detail in link:{ProductDocUserGuideURL}/index#review_reports_cli-guide[{ProductShortName} Report].

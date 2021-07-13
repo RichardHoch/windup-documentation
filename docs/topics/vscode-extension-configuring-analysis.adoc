@@ -14,11 +14,11 @@ You can configure a number of separate run configurations to run against each of
 
 .Procedure
 
-. Launch {VscodePluginName} and click the *{ProductName}* icon in the left panel.
+. Launch {VscExtension} and click the *{ProductName}* icon in the left panel.
 +
 *{ProductName}* appears at the top of the *Issue Explorer* pane of the screen.
 
-. To create a new configuration, click *+* next to *{ProductName}* at the top of the *Issue Explorer*.
+. To create a new configuration, click the *+* next to *{ProductName}* at the top of the *Issue Explorer*.
 +
 The configuration options open. *{ProductName}* gives the configuration a default name.
 

@@ -30,6 +30,8 @@
 :MavenName: Maven plugin
 :MavenNameTitle: Maven Plugin
 
+:VscExtension: Visual Studio Code Extension
+
 
 // ****************
 // * Doc metadata *

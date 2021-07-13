@@ -1,0 +1,20 @@
+// Module included in the following assemblies:
+//
+// * docs/vs-code-extension-guide/master.adoc
+
+[id='vscode-extension-resolving-issues_{context}']
+
+= Resolving issues with the {ProductName} extension
+
+.Procedure
+
+. Resolve issues detected by the {ProductName} extension by performing one of the following actions:
+
+* If the issue displays the Quick Fix icon (image:vs_optional.png[Optional or Quick Fix]), you can right-click the issue and select *Apply All QuickFixes*.
+
+* If the issue has any other icon, right-click on the issue, select *Open Code* from the menu, make any changes needed to the code, and then save the file.
+
+. Right-click the resoled issue and select *Mark as Resolved* or *Delete*.
+
+* If you select *Mark as Resolved*, the Resolved icon (image:vs_resolved.png[Resolved]) appears next to the issue.
+* If you select *Delete*, the issue no longer appears.

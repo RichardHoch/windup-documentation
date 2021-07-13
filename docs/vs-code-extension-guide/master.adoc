@@ -13,7 +13,7 @@ include::topics/templates/document-attributes.adoc[]
 This guide is for engineers, consultants, and others who want to use the {PluginName} for the {ProductName} ({ProductShortName}) to assist with migrating applications.
 
 //Inclusive language statement
-include::topics/making-open-source-more-inclusive.adoc[]
+//include::topics/making-open-source-more-inclusive.adoc[]
 
 // == Introduction
 
@@ -36,7 +36,7 @@ include::topics/making-open-source-more-inclusive.adoc[]
 // Identify and Resolve Migration Issues with Windup
 == Analyzing your projects with the {ProductName} extension
 
-You can analyze your projects with the {ProductName} extension by creating a run configuration, running an analysis, and then reviewing and resolving migration issues detected by the extension.
+You can analyze your projects with the {ProductName} extension by creating a run configuration, running an analysis, and then reviewing and resolving migration issues detected by the analysis.
 
 // Create a Run Configuration
 include::topics/vscode-extension-configuring-analysis.adoc[leveloffset=+2]
@@ -47,8 +47,8 @@ include::topics/vscode-extension-analyzing-projects.adoc[leveloffset=+2]
 // Review issues
 include::topics/vscode-extension-reviewing-projects.adoc[leveloffset=+2]
 //
-// // Resolve Windup Issues
-// include::topics/plugin-resolve-issues.adoc[leveloffset=+2]
+// Resolve Issues
+include::topics/vscode-extension-resolving-issues.adoc[leveloffset=+2]
 
 // TODO: Uncomment when uninstalling works and this is ready
 // include::topics/plugin-uninstall.adoc[leveloffset=+1]
