@@ -3,6 +3,7 @@
 // * docs/getting-started-guide/master.adoc
 // * docs/vs-code-extension-guide/master.adoc
 
+ifdef::plugin-guide[]
 [id='about-plugin_{context}']
 = About the {PluginName}
 
