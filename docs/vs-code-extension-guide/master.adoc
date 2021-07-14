@@ -10,7 +10,8 @@ include::topics/templates/document-attributes.adoc[]
 
 = {VscExtensionBookName}
 
-This guide is for engineers, consultants, and others who want to use the {VscodePluginName} for the {ProductName} ({ProductShortName}) to assist with migrating applications.
+This guide is for engineers, consultants, and others who want to use the {ProductName} ({ProductShortName}) extension with {VscodePluginName} to analyze projects or applications for suitability for migrating and modernizing and flags issues in the source code. When possible it suggests automatic code replacement, or Quick Fixes, if possible. 
+
 
 //Inclusive language statement
 include::topics/making-open-source-more-inclusive.adoc[]
