@@ -10,7 +10,14 @@ include::topics/templates/document-attributes.adoc[]
 
 = {VscExtensionBookName}
 
-This guide is for engineers, consultants, and others who want to use the {ProductName} ({ProductShortName}) extension with {VscodePluginName} to analyze projects or applications for suitability for migrating and modernizing and flags issues in the source code. When possible it suggests automatic code replacement, or Quick Fixes, if possible. 
+This guide is for engineers, consultants, and others who want to use the {ProductName} ({ProductShortName}) extension with {VscodePluginName} to analyze projects or applications for suitability for migrating and modernizing and flags issues in the source code. When possible it suggests automatic code replacement, or Quick Fixes, if possible.
+
+[IMPORTANT]
+====
+The the {ProductName} ({ProductShortName}) extension is provided as Technology Preview only. Technology Preview features are not supported with Red Hat production service level agreements (SLAs), might not be functionally complete, and Red Hat does not recommend to use them for production. These features provide early access to upcoming product features, enabling customers to test functionality and provide feedback during the development process.
+
+See link:{KBArticleTechnologyPreview}[Technology Preview Features support scope] on the Red&nbsp;Hat Customer Portal for information about the support scope for Technology Preview features.
+====
 
 
 //Inclusive language statement
